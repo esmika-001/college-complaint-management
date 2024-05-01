@@ -1,4 +1,5 @@
 College Complaint Management System
+
 Welcome to the College Complaint Management System repository! Our platform simplifies the process of handling complaints from students, staff, and faculty members within the college community. With a focus on efficiency and transparency, our system allows users to submit complaints, track their status, and prioritize urgent issues for swift resolution.
 
 Features
